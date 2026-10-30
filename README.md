@@ -55,3 +55,4 @@ uvicorn src.app.main:app --port 8000
   `ghcr.io/mohammadomari2005-dev/ai381-lab2` tagged with the commit SHA.
 - Every third-party action is pinned to a full commit SHA.
 - `main` is protected: changes go through a pull request with both checks passing.
+
